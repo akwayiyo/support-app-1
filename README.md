@@ -6,6 +6,11 @@ A full-stack helpdesk application allowing users to log in, create, edit, and vi
 
 ## 🧱 Project Structure
 
+support-app/
+├── support-backend/ # Node.js + Express + Sequelize + PostgreSQL
+├── support-frontend/ # React.js + MUI + Axios
+└── README.md # Project documentation
+
 ---
 
 ## 🚀 Technologies Used
@@ -26,11 +31,4 @@ A full-stack helpdesk application allowing users to log in, create, edit, and vi
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Backend Setup
-
-```bash
-cd support-app/support-backend
-npm install
 
